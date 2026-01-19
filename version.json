@@ -1,7 +1,7 @@
 {
     "ios": {
-        "version": "1.0.1",
-        "latestVersion": "1.0.0",
+        "version": "1.0.0",
+        "latestVersion": "1.0.1",
         "forceUpdate": false,
         "storeUrl": "https://apps.apple.com/app/idYOUR_APP_ID",
         "rateUrl": "https://apps.apple.com/app/idYOUR_APP_ID?action=write-review",
