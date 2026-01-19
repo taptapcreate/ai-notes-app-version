@@ -8,7 +8,12 @@
         "shareUrl": "https://apps.apple.com/app/idYOUR_APP_ID",
         "moreAppsUrl": "https://apps.apple.com/developer/pursharth-zutshi/id1856952308",
         "freeDailyCredits": 3,
-        "subscriberDailyLimit": 100
+        "subscriberDailyLimit": 100,
+        "releaseNotes": [
+            "✨ Performance improvements for a smoother experience.",
+            "🛠️ Bug fixes and stability enhancements.",
+            "💬 Improved AI response quality."
+        ]
     },
     "android": {
         "version": "1.0.0",
@@ -19,6 +24,11 @@
         "shareUrl": "https://play.google.com/store/apps/details?id=com.yourslug.ainotes",
         "moreAppsUrl": "https://play.google.com/store/apps/dev?id=6039030544696005344",
         "freeDailyCredits": 3,
-        "subscriberDailyLimit": 100
+        "subscriberDailyLimit": 100,
+        "releaseNotes": [
+            "✨ Performance improvements for a smoother experience.",
+            "🛠️ Bug fixes and stability enhancements.",
+            "💬 Improved AI response quality."
+        ]
     }
 }
